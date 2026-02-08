@@ -1,0 +1,179 @@
+{
+    "personalInfo": {
+        "name": "Anuj Mourya",
+        "role": "Full Stack Developer",
+        "tagline": "Building scalable, secure, and high-performance web and mobile applications.",
+        "location": "New Delhi, India",
+        "email": "mouryaanuj62@gmail.com",
+        "phone": "+91 9958682778",
+        "resumeUrl": "/resume.pdf",
+        "image": "/anuj.png"
+    },
+    "socialLinks": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/anujmourya",
+            "icon": "Linkedin"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/anuj0224",
+            "icon": "Github"
+        },
+        {
+            "platform": "Portfolio",
+            "url": "https://bostami-anujportfolio.vercel.app",
+            "icon": "Globe"
+        }
+    ],
+    "about": {
+        "summary": "Full Stack Developer with professional experience in building scalable web and mobile applications using MERN and MEAN stacks, Next.js, Capacitor, and React Native for cross-platform development. Strong expertise in REST APIs, authentication, offline-first application architecture, performance optimization, and enterprise software development.",
+        "objective": "To obtain a Full Stack Developer position where I can apply my expertise in MERN and MEAN stacks, Next.js, Capacitor, and React Native mobile development to build scalable, secure, and high-performance web and mobile applications while contributing to organizational growth."
+    },
+    "skills": [
+        {
+            "category": "Frameworks & Stacks",
+            "items": [
+                "MERN Stack",
+                "MEAN Stack",
+                "Next.js",
+                "React Native",
+                "Capacitor"
+            ]
+        },
+        {
+            "category": "Backend & APIs",
+            "items": [
+                "REST APIs",
+                "Authentication & Authorization",
+                "API Integration"
+            ]
+        },
+        {
+            "category": "Databases",
+            "items": [
+                "MongoDB",
+                "MySQL",
+                "SQLite"
+            ]
+        },
+        {
+            "category": "Web Technologies",
+            "items": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "PHP"
+            ]
+        },
+        {
+            "category": "Tools & Platforms",
+            "items": [
+                "Git",
+                "GitHub",
+                "Vercel",
+                "Postman"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "role": "Full Stack Web Developer",
+            "company": "Essence Technology Automation India Pvt. Ltd.",
+            "period": "Apr 2025 – Present",
+            "description": [
+                "Developing scalable enterprise applications using MERN and MEAN stacks",
+                "Designing secure RESTful APIs",
+                "Optimizing frontend and backend performance",
+                "Supporting React Native mobile applications"
+            ]
+        },
+        {
+            "role": "Full Stack Developer Intern",
+            "company": "Essence Technology Automation India Pvt. Ltd.",
+            "period": "Jul 2024 – Mar 2025",
+            "description": [
+                "Worked on HRMS, CRM, LMS, and telephony software",
+                "Implemented MERN and MEAN stack features",
+                "Improved code quality through refactoring"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Expense Tracker",
+            "description": "Offline-first mobile app built with Next.js, Capacitor, Tailwind CSS, and SQLite. Features spending threshold alerts, multi-theme support, and local database storage.",
+            "techStack": [
+                "Next.js",
+                "Capacitor",
+                "Tailwind CSS",
+                "SQLite"
+            ],
+            "link": "",
+            "github": ""
+        },
+        {
+            "title": "Secure Notes App",
+            "description": "Offline-first encrypted notes application supporting text, images, and metadata storage with secure local data storage and authentication.",
+            "techStack": [
+                "React Native",
+                "Encryption"
+            ],
+            "link": "",
+            "github": ""
+        },
+        {
+            "title": "CodeLab – Online Code Editor",
+            "description": "Browser-based HTML, CSS, and JavaScript editor with real-time live preview.",
+            "techStack": [
+                "HTML",
+                "CSS",
+                "JS"
+            ],
+            "link": "",
+            "github": ""
+        },
+        {
+            "title": "Portfolio Website",
+            "description": "Modern developer portfolio showcasing projects, experience, and technical skills.",
+            "techStack": [
+                "Next.js",
+                "React"
+            ],
+            "link": "https://bostami-anuj-portfolio.vercel.app",
+            "github": ""
+        },
+        {
+            "title": "CodeScribe",
+            "description": "Technical blogging platform combined with an integrated coding environment.",
+            "techStack": [
+                "GitHub Pages"
+            ],
+            "link": "https://anuj0224.github.io/codeScribe",
+            "github": ""
+        },
+        {
+            "title": "Pokepedia",
+            "description": "Pokémon data explorer using public APIs with responsive UI and search functionality.",
+            "techStack": [
+                "API",
+                "React"
+            ],
+            "link": "https://anuj-poke-pedia.vercel.app",
+            "github": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology",
+            "institution": "BM Group of Institution, Gurugram University",
+            "period": "2022 – 2026"
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "School of Excellence, New Delhi",
+            "period": "2020"
+        }
+    ]
+}
